@@ -1,0 +1,16 @@
+node_modules/*
+package-lock.json
+yarn.lock
+dist
+components.d.ts
+*.zip
+*.development
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
